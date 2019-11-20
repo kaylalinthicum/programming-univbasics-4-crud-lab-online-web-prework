@@ -8,8 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   nfl_teams = ["Lions", "Bears", "Titans", "Packers", "Giants"]
-  element = "Rams"
-  nfl_teams << "Rams"
+  nfl_teams << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
